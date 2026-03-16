@@ -12,7 +12,7 @@ function append(value){
 }
 
 function clearDisplay(){
-display.value="0";
+display.value="";
 }
 
 function removeLast(){
